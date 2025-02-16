@@ -1,0 +1,41 @@
+.txt{
+    margin: 26px;
+    
+    background-image: url('../assets/car.png'); 
+    background-size: cover; 
+    background-position: center; 
+    background-size: 45%;
+    background-repeat: no-repeat;
+    
+}
+
+.all_btn{
+    text-align: right;
+    margin: 30px;
+}
+
+.btn_bas button{
+    background-color: white;
+    border: 1px red solid;
+    border-radius: 20px;
+    color: red;
+    margin: 5px;
+    padding: 15px;    
+    position: left;
+}
+
+.all_btn .btn_bas button:hover{
+    cursor: pointer;
+    background-color: red;
+    color: white;
+}
+
+.btn_blk{
+    padding: 20px;
+    margin: 10px;
+}
+
+.all_btn .btn_blk button:hover{
+    cursor: pointer;
+   
+}
