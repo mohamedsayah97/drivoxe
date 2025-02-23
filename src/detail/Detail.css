@@ -1,0 +1,27 @@
+.container {
+    margin: auto;
+    background-image: url('../assets//car7.jpg');
+    background-size: cover;
+    background-position: center;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    /*padding: 300px; */
+    padding: 50px;
+    gap: 56px;
+    color: #ffffff;
+    
+}
+
+/*.container p {
+   padding: 50px;
+   gap: 56px;
+   color: #ffffff;
+}*/
+
+.container h4 {
+    /*padding: 50px;
+    gap: 56px;
+    color: #ffffff;*/
+    font-size: 40px;
+
+ }

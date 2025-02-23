@@ -1,0 +1,12 @@
+.container {
+    margin-top: 45px;
+}
+.bloc-part , p , h5 {
+    margin-bottom: 7px;
+    display: flex;
+}
+.pic-part img {
+    width: 60%;
+    padding-right: 30px;
+    
+}

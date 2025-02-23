@@ -1,0 +1,128 @@
+.lignes p{
+    text-align: center;
+    margin-top: 40px;
+}
+
+.lignes h4{
+    text-align: center;
+    margin-top: 10px;
+}
+
+.content{
+    
+    background-image: url('../assets/logo.png');
+    background-size: cover;
+    background-position: center;
+    background-size: 100%;
+    
+}
+
+.content-part h5{
+    position: absolute;
+    left: 400px;
+
+}
+.content-part .seconde{
+    position: absolute;
+    left: 350px;
+    margin-top: 40px;
+    
+}
+
+.content-part .third{
+    position: absolute;
+    left: 359px;
+    margin-top: 55px;
+    padding: 5px;
+    }
+.content-part img{
+    position: absolute;
+    left: 500px;
+    margin-top: 15px;
+    padding: 5px;
+}
+
+.seconde-part h5{
+    position: absolute;
+    right: 500px;
+    bottom: 400px;
+    top: 250px;
+}
+
+.seconde-part .first-content{
+    position: absolute;
+    right: 425px;
+    bottom: 420px;
+}
+
+.seconde-part .second-part{
+    position: absolute;
+    right: 395px;
+    bottom: 400px;
+}
+
+.seconde-part .thirdth-part{
+    position: absolute;
+    right: 507px;
+    bottom: 380px;
+}
+
+.seconde-part img{
+    position: absolute;
+    right: 550px;
+    bottom: 400px;
+}
+
+.third-part h5 {
+    position: absolute;
+    left: 400px;
+    bottom: 300px;
+}
+
+.third-part .first-line {
+    position: absolute;
+    left: 350px;
+    bottom: 280px;
+}
+
+.third-part .seconde-line {
+    position: absolute;
+    left: 350px;
+    bottom: 260px;
+}
+
+.third-part img {
+    position: absolute;
+    left: 500px;
+    bottom: 280px;
+}
+
+.fouth-part h5 {
+    position: absolute;
+    right: 485px;
+    bottom: 150px; 
+}
+
+.fouth-part .first-cont {
+    position: absolute;
+    right: 395px;
+    bottom: 110px;
+}
+
+.fouth-part .seconde-cont {
+    position: absolute;
+    right: 391px;
+    bottom: 90px;
+}
+
+.fouth-part .third-cont {
+    position: absolute;
+    right: 480px;
+    bottom: 70px;
+}
+
+.fouth-part img {
+    position: absolute;
+    right: 550px;
+    bottom: 90px;
+}

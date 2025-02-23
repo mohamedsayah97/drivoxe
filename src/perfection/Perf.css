@@ -1,0 +1,31 @@
+.container {
+    background-image: url('../assets/interieur.jpg');
+    background-size: cover;
+    background-position: center;
+    background-size: 100%;
+    border-radius: 10px;
+}
+.container p {
+    margin-right: 50px;
+    margin-top: 40px;
+    text-align: right;
+    color: #ffffff;
+}
+
+.container h4 {
+    text-align: right;
+    color: #ffffff;
+    margin-right: 50px;
+    margin-bottom: 25px;
+}
+
+.container button {
+    background-color: rgb(210, 7, 7);
+    color: white;
+    position: absolute;
+    right: 40px;
+    width: 140px;
+    height: 25px;
+    border-radius: 10px;
+    padding: 5px;
+}

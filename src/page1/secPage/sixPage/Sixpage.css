@@ -1,0 +1,30 @@
+.all {
+    background-image: url('../assets/car3.png');
+    background-size: cover;
+    background-position: center;
+    background-size: 100%;
+    margin-top: 10px;
+    
+}
+
+.first-content h4 {
+    position: absolute;
+    right: 400px;
+    margin-top: 10px;
+    color: white;
+}
+
+.sec-content .first-line {
+    position: absolute;
+    right: 273px;
+    margin-top: 30px;
+    color: white;
+}
+
+.sec-line {
+   /* position: absolute;
+    right:345px;
+    margin-top: 50px;
+    color: white;*/
+   
+}

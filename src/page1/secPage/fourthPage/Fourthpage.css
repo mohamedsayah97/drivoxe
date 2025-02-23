@@ -1,0 +1,14 @@
+.container p{
+    color: rgb(224, 28, 28);
+    text-align: center;
+    margin: 40px;
+}
+
+.container h4{
+    text-align: center;
+}
+
+.container img{
+    position: absolute;
+    left: 700px;
+}

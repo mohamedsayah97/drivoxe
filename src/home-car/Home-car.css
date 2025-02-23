@@ -1,0 +1,17 @@
+.container p {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.container h3 {
+    margin-bottom: 20px;
+    text-align: center;
+    font-size: 30px;
+}
+
+.container img {
+    width: 1440px;
+    height: 400px;
+    gap: 10px;
+}
