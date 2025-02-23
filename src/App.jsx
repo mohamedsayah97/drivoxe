@@ -13,7 +13,7 @@ import './App.css'
 //import { Fivethpage } from './fivethPage/Fivethpage'
 //import Sixpage from './sixPage/Sixpage'
 //import Fourthpage from './fourthPage/Fourthpage'
-//import Navbar from './navbar/Navbar'
+import Navbar from './navbar/Navbar'
 //import Secpart from './secPage/Secpart'
 //import Thirdpart from './thirdpage/Thirdpart'
 
@@ -46,7 +46,7 @@ function App() {
      
     */}
     
-  
+  <Navbar />
     
      
      
