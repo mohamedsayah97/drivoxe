@@ -1,6 +1,6 @@
 import React from 'react'
 import './Thirdpart.css'
-import car2 from '../assets/car2.png'
+{/*import car2 from '../assets/car2.png'*/}
 
 const Thirdpart = () => {
   return (
@@ -20,9 +20,9 @@ const Thirdpart = () => {
         <p style={{position: "absolute", bottom: "-440px;"}}>We serve with a lot of values</p>
         <p style={{position: "absolute", bottom: "-460px;"}}>that you can feel directly</p>
       </div>
-      <div className="right_part">
+      {/*<div className="right_part">
         <img src={car2}/>
-      </div>
+      </div>*/}
     </div>
     </div>
   )

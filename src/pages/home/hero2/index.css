@@ -1,0 +1,44 @@
+#container {
+    background-image: url('../../../assets/car2.png');
+    background-size: cover;
+    background-position: right;
+    background-size: 55%;
+    background-repeat: no-repeat;
+    
+}
+.left-part {
+    width: 416;
+    height: 525;
+    justify-content: space-between;
+    padding-top: 39px;
+    padding-bottom: 133px;
+    margin-top: 1000px;
+    margin-left: 50px;
+    
+}
+
+.left-part h6 {
+    width: 416px;
+    height: 134;
+    font-family: Syne;
+    font-weight: 700;
+    font-size: 56px;
+    line-height: 67.2px;
+    letter-spacing: 0%;
+    color: #222222;
+
+}
+
+.left-part p {
+    width: 272px;
+    height: 96;
+    opacity: 0.6;
+    font-family: Syne;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 24px;
+    letter-spacing: 0%;
+    color: #222222;
+    margin-top: 150px;
+}
+

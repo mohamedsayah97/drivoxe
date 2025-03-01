@@ -1,0 +1,133 @@
+.container {
+    width: 1440;
+    height: 957;
+    padding-right: 50px;
+    padding-left: 50px;
+    gap: 100px;
+
+}
+
+.top-part {
+  text-align: center;
+}
+
+.first-part {
+    width: 169;
+    height: 24;
+    font-family: Syne;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+    letter-spacing: 0%;
+    text-align: center;
+    color: #222222;
+}
+.last-par {
+    width: 842;
+height: 67;
+font-family: Syne;
+font-weight: 700;
+font-size: 56px;
+line-height: 67.2px;
+letter-spacing: 0%;
+text-align: center;
+color: #222222;
+
+}
+.down-part1 {
+    background-image: url('../../../assets/logo.png');
+    background-size: cover;
+    background-position: center;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 700px;
+    
+}
+
+.select {
+    width: 378;
+    height: 150;
+    gap: 32px;
+    text-align: center;
+    margin-top: 100px;
+  
+}
+
+.select h4 {
+    width: 83;
+    height: 29;
+    font-family: Syne;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 28.8px;
+    letter-spacing: 0%;
+    color: #222222;
+    position: absolute;
+    left: 510px;
+    padding-top: 15px;
+
+}
+.select p {
+    width: 150px;
+    position: absolute;
+    left: 470px;
+    padding-top: 65px;
+
+}
+
+.emoji1 {
+    width: 60px;
+    height: 60px;
+    position: absolute;
+    left: 640px;
+    background-color: #ffffff;
+    padding: 25px;
+    border-radius: 30px;
+
+}
+
+.book {
+    width: 378;
+    height: 150;
+    gap: 32px;
+    text-align: right;
+    margin-top: 100px;
+  
+}
+
+.h42 {
+    width: 83;
+    height: 29;
+    font-family: Syne;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 28.8px;
+    letter-spacing: 0%;
+    color: #222222;
+    position: absolute;
+    
+    right: 280px;
+    padding-top: 130px;
+    
+}
+
+.emoji2 {
+    width: 60px;
+    height: 60px;
+    background-color: #ffffff;
+    padding: 25px;
+    border-radius: 30px;
+    margin-right: 350px;    
+    margin-top: 130px;
+    border: 2px solid black;
+}
+
+.p2 {
+    width: 150px;
+    position: absolute;
+    right: 200px;
+    margin-top: 180px;
+    text-align: left;
+
+}
+

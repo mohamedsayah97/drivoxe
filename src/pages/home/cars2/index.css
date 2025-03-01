@@ -1,0 +1,574 @@
+#container {
+    width: 1340;
+    height: 1000;
+    gap: 100px;
+    
+
+}
+
+.cards {
+    width: 968;
+    height: 860;
+    gap: 48px;
+   
+
+}
+
+.top-part {
+   
+    width: 968;
+    height: 406;
+    gap: 64px;
+    
+    
+} 
+
+.card {
+    width: 200px;
+    height: 406;
+    gap: 32px;
+    border-radius: 10px;
+    padding-top: 12px;
+    padding-right: 12px;
+    padding-bottom: 24px;
+    padding-left: 12px;
+    margin-left: 250px;
+    position: absolute;
+    bottom: -590px;
+}
+.card img {
+   
+    width: 150px;
+    height: 100px;
+    }
+    
+    .card h6 {
+        width: 209px;
+        height: 58;
+        font-family: Syne;
+        font-weight: 700;
+        font-size: 24px;
+        line-height: 28.8px;
+        letter-spacing: 0%;
+        color: #222222;
+        margin-bottom: 12px;
+       
+    }
+    
+    
+    .card .first1-par {
+        width: 85;
+        height: 19;
+        opacity: 0.5;
+        font-family: Syne;
+        font-weight: 600;
+        font-size: 16px;
+        line-height: 19.2px;
+        letter-spacing: 0%;
+        margin-left: -100px;
+    }
+    
+    .card .sec2-par {
+        width: 96;
+        height: 29;
+        top: 25px;
+        font-family: Syne;
+        font-weight: 700;
+        font-size: 24px;
+        line-height: 28.8px;
+        letter-spacing: 0%;
+        margin-left: -80px;
+    }
+    
+    .card .btn1 {
+        width: 95;
+        height: 40;
+        gap: 10px;
+        border-radius: 32px;
+        padding-top: 10px;
+        padding-right: 26px;
+        padding-bottom: 10px;
+        padding-left: 26px;
+        background: #FD3B3B;
+        border: none;  
+        position: absolute;
+        bottom:20px;
+        left: 140px;  
+        cursor: pointer;
+        color: #ffffff;
+        
+    }
+    .card:hover {
+        background-color: #FD3B3B;
+        color: #ffffff;
+        cursor: pointer;
+        .btn1 {
+        background-color: #ffffff;
+        color: #FD3B3B;
+       }
+       h6 {
+        color: #ffffff;
+       }
+    }
+    
+    
+.card2 {
+    width: 200px;
+    height: 406;
+    gap: 32px;
+    border-radius: 10px;
+    padding-top: 12px;
+    padding-right: 12px;
+    padding-bottom: 24px;
+    padding-left: 12px;
+    margin-left: 200px; 
+    position: absolute;
+    bottom: -590px;/**/
+    left: 450px;
+    
+
+}
+
+.card2 img {
+    width: 150px;
+    height: 100px;  
+}
+
+.card2 h6 {
+    width: 209px;
+    height: 58;
+    font-family: Syne;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 28.8px;
+    letter-spacing: 0%;
+    color: #222222;
+    margin-bottom: 12px;
+}
+.card2 .first12-par{
+    width: 85;
+    height: 19;
+    opacity: 0.5;
+    font-family: Syne;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 19.2px;
+    letter-spacing: 0%;
+    margin-left: -100px;/**/
+}
+.card2 .sec12-par {
+    width: 96;
+    height: 29;
+    top: 25px;
+    font-family: Syne;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 28.8px;
+    letter-spacing: 0%;
+    margin-left: -80px;/**/
+}
+
+
+.card2 .btn2 {
+    width: 95;
+    height: 40;
+    gap: 10px;
+    border-radius: 32px;
+    padding-top: 10px;
+    padding-right: 26px;
+    padding-bottom: 10px;
+    padding-left: 26px;
+    background: #FD3B3B;
+    border: none;  
+    position: absolute;
+    bottom: 20px;/**/
+    left: 140px;
+    cursor: pointer;
+    color: #ffffff;
+}
+
+
+.card2:hover {
+    background-color: #FD3B3B;
+    color: #ffffff;
+    cursor: pointer;
+    .btn2 {
+        background-color: #ffffff;
+        color: #FD3B3B;
+    } 
+    h6 {
+        color: #ffffff;
+       }
+}
+
+.card3 {
+    width: 200px;
+    height: 406;
+    gap: 32px;
+    border-radius: 10px;
+    padding-top: 12px;
+    padding-right: 12px;
+    padding-bottom: 24px;
+    padding-left: 12px;
+    margin-left: 200px; 
+    position: absolute;
+    bottom: -585px;/**/
+    right: 250px;
+    
+
+}
+
+.card3 img {
+    width: 150px;
+    height: 100px;  
+}
+
+.card3 h6 {
+    width: 209px;
+    height: 58;
+    font-family: Syne;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 28.8px;
+    letter-spacing: 0%;
+    color: #222222;
+    margin-bottom: 12px;
+}
+.card3 .first13-par{
+    width: 85;
+    height: 19;
+    opacity: 0.5;
+    font-family: Syne;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 19.2px;
+    letter-spacing: 0%;
+    margin-left: -100px;/**/
+}
+.card3 .sec13-par {
+    width: 96;
+    height: 29;
+    top: 25px;
+    font-family: Syne;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 28.8px;
+    letter-spacing: 0%;
+    margin-left: -80px;/**/
+}
+
+
+.card3 .btn3 {
+    width: 95;
+    height: 40;
+    gap: 10px;
+    border-radius: 32px;
+    padding-top: 10px;
+    padding-right: 26px;
+    padding-bottom: 10px;
+    padding-left: 26px;
+    background: #FD3B3B;
+    border: none;  
+    position: absolute;
+    bottom: 20px;
+    left: 140px;
+    cursor: pointer;
+    color: #ffffff;
+}
+
+
+.card3:hover {
+    background-color: #FD3B3B;
+    color: #ffffff;
+    cursor: pointer;
+    .btn3 {
+        background-color: #ffffff;
+        color: #FD3B3B;
+    } 
+    h6 {
+        color: #ffffff;
+       }
+}
+
+.card4 {
+    width: 200px;
+    height: 406;
+    gap: 32px;
+    border-radius: 10px;
+    padding-top: 12px;
+    padding-right: 12px;
+    padding-bottom: 24px;
+    padding-left: 12px;
+    margin-left: 250px;
+    position: absolute;
+    bottom: -880px;/**/
+    
+
+}
+
+.card4 img {
+    width: 150px;
+    height: 100px;  
+}
+
+.card4 h6 {
+    width: 209px;
+    height: 58;
+    font-family: Syne;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 28.8px;
+    letter-spacing: 0%;
+    color: #222222;
+    margin-bottom: 12px;
+}
+.card4 .first14-par{
+    width: 85;
+    height: 19;
+    opacity: 0.5;
+    font-family: Syne;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 19.2px;
+    letter-spacing: 0%;
+    margin-left: -100px;/**/
+}
+.card4 .sec14-par {
+    width: 96;
+    height: 29;
+    top: 25px;
+    font-family: Syne;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 28.8px;
+    letter-spacing: 0%;
+    margin-left: -80px;/**/
+}
+
+
+.card4 .btn4 {
+    width: 95;
+    height: 40;
+    gap: 10px;
+    border-radius: 32px;
+    padding-top: 10px;
+    padding-right: 26px;
+    padding-bottom: 10px;
+    padding-left: 26px;
+    background: #FD3B3B;
+    border: none;  
+    position: absolute;
+    bottom: 20px;
+    left: 140px;
+    cursor: pointer;
+    color: #ffffff;
+}
+
+
+.card4:hover {
+    background-color: #FD3B3B;
+    color: #ffffff;
+    cursor: pointer;
+    .btn4 {
+        background-color: #ffffff;
+        color: #FD3B3B;
+    } 
+    h6 {
+        color: #ffffff;
+       }
+}
+
+.card5 {
+    width: 200px;
+    height: 406;
+    gap: 32px;
+    border-radius: 10px;
+    padding-top: 12px;
+    padding-right: 12px;
+    padding-bottom: 24px;
+    padding-left: 12px;
+    margin-left: 250px;
+    position: absolute;
+    bottom: -885px;
+    right: 640px;
+    
+
+}
+
+.card5 img {
+    width: 150px;
+    height: 100px;  
+}
+
+.card5 h6 {
+    width: 209px;
+    height: 58;
+    font-family: Syne;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 28.8px;
+    letter-spacing: 0%;
+    color: #222222;
+    margin-bottom: 12px;
+}
+.card5 .first15-par{
+    width: 85;
+    height: 19;
+    opacity: 0.5;
+    font-family: Syne;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 19.2px;
+    letter-spacing: 0%;
+    margin-left: -100px;/**/
+}
+.card5 .sec15-par {
+    width: 96;
+    height: 29;
+    top: 25px;
+    font-family: Syne;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 28.8px;
+    letter-spacing: 0%;
+    margin-left: -80px;/**/
+}
+
+
+.card5 .btn5 {
+    width: 95;
+    height: 40;
+    gap: 10px;
+    border-radius: 32px;
+    padding-top: 10px;
+    padding-right: 26px;
+    padding-bottom: 10px;
+    padding-left: 26px;
+    background: #FD3B3B;
+    border: none;  
+    position: absolute;
+    bottom: 25px;
+    left: 140px;
+    cursor: pointer;
+    color: #ffffff;
+}
+
+
+.card5:hover {
+    background-color: #FD3B3B;
+    color: #ffffff;
+    cursor: pointer;
+    .btn5 {
+        background-color: #ffffff;
+        color: #FD3B3B;
+    } 
+    h6 {
+        color: #ffffff;
+       }
+}
+
+.card6 {
+    width: 200px;
+    height: 406;
+    gap: 32px;
+    border-radius: 10px;
+    padding-top: 12px;
+    padding-right: 12px;
+    padding-bottom: 24px;
+    padding-left: 12px;
+    margin-left: 250px;
+    position: absolute;
+    bottom: -880px;
+    right: 250px;
+
+}
+
+.card6 img {
+    width: 150px;
+    height: 100px;  
+}
+
+.card6 h6 {
+    width: 209px;
+    height: 58;
+    font-family: Syne;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 28.8px;
+    letter-spacing: 0%;
+    color: #222222;
+    margin-bottom: 12px;
+}
+.card6 .first16-par{
+    width: 85;
+    height: 19;
+    opacity: 0.5;
+    font-family: Syne;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 19.2px;
+    letter-spacing: 0%;
+    margin-left: -100px;/**/
+}
+.card6 .sec16-par {
+    width: 96;
+    height: 29;
+    top: 25px;
+    font-family: Syne;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 28.8px;
+    letter-spacing: 0%;
+    margin-left: -80px;/**/
+}
+
+
+.card6 .btn6 {
+    width: 95;
+    height: 40;
+    gap: 10px;
+    border-radius: 32px;
+    padding-top: 10px;
+    padding-right: 26px;
+    padding-bottom: 10px;
+    padding-left: 26px;
+    background: #FD3B3B;
+    border: none;  
+    position: absolute;
+    bottom: 25px;
+    left: 140px;
+    cursor: pointer;
+    color: #ffffff;
+}
+
+
+.card6:hover {
+    background-color: #FD3B3B;
+    color: #ffffff;
+    cursor: pointer;
+    .btn6 {
+        background-color: #ffffff;
+        color: #FD3B3B;
+    } 
+    h6 {
+        color: #ffffff;
+       }
+}
+
+.btn-suc {
+    text-align: center;
+   justify-content: space-between;
+}
+.btn-p{
+padding-right: 10px;
+}
+.btn-p:hover{
+    color: #FD3B3B;
+    background-color: #ffffff;
+    border: 1px #FD3B3B solid;
+    border-radius: 50px;
+    padding-left: 8px;
+    cursor: pointer;
+    }
+
+   
