@@ -25,8 +25,26 @@ const Hero = () => {
             <img src="https://picsum.photos/200/300" alt="card_placeholder" />
           </div>
         </div>
-        <div className="hero-middle">middle hero</div>
-        <div className="hero-right">right hero</div>
+        <div className="hero-middle"><b>50+</b><br/> <span>Car Types<br/>
+        Available</span></div>
+        <div className="hero-right">
+          <div className="pics">
+            <img src={""} alt="pic1"></img>
+            <img src={""} alt="pic2"></img>
+            <img src={""} alt="pic3"></img>
+            <div className="hero-par">
+              <h5>12.5K+ People</h5>
+              <p>has used our services such as renting, buying, or even selling their car.</p>
+            </div>
+            <div className="card-down">
+              <button>rent</button>
+              <button>buy</button>
+              <button>sell</button>
+              <button>consult</button>
+              <button className="learn">Learn more</button>
+            </div>
+          </div>
+          </div>
       </div>
       <div className="hero-down">
         <img src={'https://res.cloudinary.com/dcxzlpare/image/upload/v1740919695/logoipsum-265_fljggp.svg'}></img>

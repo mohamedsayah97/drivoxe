@@ -64,4 +64,53 @@
     gap: 10px;
     height: 90px;
   }
+
+  .hero-middle{
+    width: 150px;
+    height: 160px;
+    /* From https://css.glass */
+    background: rgba(255, 255, 255, 0.2);
+    border-radius: 16px;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(5px);
+    -webkit-backdrop-filter: blur(5px);
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    b {
+      width: 82px;
+      height: 58px;
+      border-width: 1px;
+      font-family: Syne;
+      font-weight: 500;
+      font-size: 48px;
+      line-height: 57.6px;
+      letter-spacing: 0%;
+
+    }
+    span {
+      width: 66px;
+      height: 32px;
+      opacity: 0.6;
+      font-family: Syne;
+      font-weight: 500;
+      font-size: 14px;
+      line-height: 16px;
+      letter-spacing: 0%;
+      text-align: center;
+
+    }
+    .pics {
+      display: flex;
+      img {
+        width: 1.5rem;
+        height: 1.5rem;
+        border-radius: 50%;
+      }
+
+    }
+    .card-down button{
+      width: 50px;
+      height: 20px;
+      border: none;
+    }
+  }
 }

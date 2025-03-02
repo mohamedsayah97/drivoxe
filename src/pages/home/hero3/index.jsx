@@ -2,14 +2,18 @@ import './index.css'
 
 const Hero3 = () => {
   return (
-    <div className='container'>
-      <div className="cl1">
-      <h4 className='msg1'>Ready to Go?</h4>
-      <p className='msg2'>Book your car wherever you are  and ride with us now!</p>
-      <img className='pic1' src='' alt='apple-here'></img>
-      <img className='pic2' src='' alt='android-here'></img>
+    <div id="download-app">
+    <div className='download-app'>
+      
+    <div className="content">
+        <h3>ready to Go?</h3>
+        <p>Book your car wherever you are  and ride with us now!</p>
+        <img src='' alt='apple-here'></img>
+        <img src='' alt='android-here'></img>
       </div>
-    </div>
+    
+     </div>
+     </div>
   )
 }
 
