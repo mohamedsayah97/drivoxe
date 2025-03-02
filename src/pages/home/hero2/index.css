@@ -1,5 +1,5 @@
 #container {
-    background-image: url('../../../assets/car2.png');
+    background-image: url('https://res.cloudinary.com/dcxzlpare/image/upload/v1740919314/car2_k1ldqe.png');
     background-size: cover;
     background-position: right;
     background-size: 55%;
@@ -12,7 +12,7 @@
     justify-content: space-between;
     padding-top: 39px;
     padding-bottom: 133px;
-    margin-top: 1000px;
+    margin-top: 100px;
     margin-left: 50px;
     
 }

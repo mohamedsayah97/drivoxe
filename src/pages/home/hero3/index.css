@@ -1,9 +1,10 @@
 .cl1 {
-    background-image: url('../../../assets/car3.png');
+    background-image: url('https://res.cloudinary.com/dcxzlpare/image/upload/v1740919668/car3_mdkilj.png');
     background-position: left;
     background-size: cover;
     background-size: 100%;
     background-repeat: no-repeat;
+    width: 300px;
     
    
 }

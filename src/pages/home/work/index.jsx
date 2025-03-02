@@ -1,8 +1,5 @@
 import './index.css'
-import emoji1 from '../../../assets/emoji1.png'
-import emoji2 from '../../../assets/emoji2.png'
-import emoji3 from '../../../assets/emoji3.png'
-import emoji4 from '../../../assets/emoji4.png'
+
 const Work = () => {
   return (
     <div className='container'>
@@ -15,23 +12,23 @@ const Work = () => {
           <div className="select">
             <h4>Select</h4>
             <p>Choose your desired car from our fleet.</p>
-            <img className='emoji1' src={emoji1} alt='emoji1'></img>
+            <img className='emoji1' src={'https://res.cloudinary.com/dcxzlpare/image/upload/v1740919021/emoji1_h3ebce.png'} alt='emoji1'></img>
           </div>
           <div className="book">
             <h4 className='h42'>Book</h4>
             <p className='p2'>Reserve your car online or through our app.</p>
-            <img className='emoji2' src={emoji2} alt='emoji2'></img>
+            <img className='emoji2' src={'https://res.cloudinary.com/dcxzlpare/image/upload/v1740919043/emoji2_hsjpmq.png'} alt='emoji2'></img>
           </div>
           <div className="drive">
             <h4 className='h43'>Drive</h4>
             <p className='p3'>Pick up your car
             and hit the road.</p>
-            <img className='emoji3' src={emoji3} alt='emoji3'></img>
+            <img className='emoji3' src={'https://res.cloudinary.com/dcxzlpare/image/upload/v1740919051/emoji3_msjgkf.png'} alt='emoji3'></img>
           </div>
           <div className="return">
             <h4 className='h44'>Return</h4>
             <p className='p4'>Bring the car back at the end of your rental period.</p>
-            <img className='emoji4' src={emoji4}></img>
+            <img className='emoji4' src={'https://res.cloudinary.com/dcxzlpare/image/upload/v1740919171/emoji4_qxcomd.png'}></img>
           </div>
         </div>
         

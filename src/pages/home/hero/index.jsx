@@ -1,10 +1,5 @@
 import "./index.scss";
-import logo1 from '../../../assets/logoipsum-256.svg'
-import logo2 from '../../../assets/logoipsum-258.svg'
-import logo3 from '../../../assets/logoipsum-260.svg'
-import logo4 from '../../../assets/logoipsum-261.svg'
-import logo5 from '../../../assets/logoipsum-262.svg'
-import logo6 from '../../../assets/logoipsum-265.svg'
+
 
 const Hero = () => {
   return (
@@ -34,12 +29,12 @@ const Hero = () => {
         <div className="hero-right">right hero</div>
       </div>
       <div className="hero-down">
-        <img src={logo1}></img>
-        <img src={logo2}></img>
-        <img src={logo3}></img>
-        <img src={logo4}></img>
-        <img src={logo5}></img>
-        <img src={logo6}></img>
+        <img src={'https://res.cloudinary.com/dcxzlpare/image/upload/v1740919695/logoipsum-265_fljggp.svg'}></img>
+        <img src={'https://res.cloudinary.com/dcxzlpare/image/upload/v1740919693/logoipsum-262_r7xjqh.svg'}></img>
+        <img src={'https://res.cloudinary.com/dcxzlpare/image/upload/v1740919689/logoipsum-261_dpeelp.svg'}></img>
+        <img src={'https://res.cloudinary.com/dcxzlpare/image/upload/v1740919683/logoipsum-260_yiqk3u.svg'}></img>
+        <img src={'https://res.cloudinary.com/dcxzlpare/image/upload/v1740919680/logoipsum-258_jpaqpk.svg'}></img>
+        <img src={'https://res.cloudinary.com/dcxzlpare/image/upload/v1740919669/logoipsum-256_mrhy05.svg'}></img>
       </div>
       {/* <div className="txt">
         <h3>Your journey,</h3>

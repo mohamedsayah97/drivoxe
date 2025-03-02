@@ -1,5 +1,5 @@
 import './index.css'
-import women from '../../../assets/women.jpg'
+
 const Avis = () => {
   return (
     <div className='container'>
@@ -9,7 +9,7 @@ const Avis = () => {
 
      </div>
      <div className='down-part'>
-        <img src={women} alt='image-here'></img>
+        <img src={'https://res.cloudinary.com/dcxzlpare/image/upload/v1740920140/women_cy4vej.jpg'} alt='image-here'></img>
         <p>Aleea Thompson</p>
      </div>
     </div>
