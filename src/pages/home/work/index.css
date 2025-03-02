@@ -72,6 +72,7 @@ color: #222222;
     position: absolute;
     left: 470px;
     padding-top: 65px;
+    color: #222222;
 
 }
 
@@ -84,6 +85,12 @@ color: #222222;
     padding: 25px;
     border-radius: 30px;
 
+}
+
+.emoji1:hover {
+    cursor: pointer;
+    background-color: #FD3B3B;
+    color: #ffffff;
 }
 
 .book {
@@ -121,13 +128,118 @@ color: #222222;
     margin-top: 130px;
     border: 2px solid black;
 }
-
+.emoji2:hover {
+    cursor: pointer;
+    background-color: #FD3B3B;
+    color: #ffffff;
+}
 .p2 {
     width: 150px;
     position: absolute;
     right: 200px;
     margin-top: 180px;
     text-align: left;
+    color: #222222;
+
+}
+
+.drive {
+    width: 378;
+    height: 150;
+    gap: 32px;
+    text-align: center;
+    margin-top: 100px;
+}
+
+ .emoji3 {
+    width: 60px;
+    height: 60px;
+    background-color: #ffffff;
+    padding: 25px;
+    border-radius: 30px;
+    margin-right: 150px;    
+    margin-top: -100px;
+}
+.emoji3:hover {
+    cursor: pointer;
+    background-color: #FD3B3B;
+    color: #ffffff;
+}
+
+.h43 {
+    width: 83;
+    height: 29;
+    font-family: Syne;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 28.8px;
+    letter-spacing: 0%;
+    color: #222222;
+    /*margin-left: -450px;*/
+    position: absolute;
+    left: 510px;
+    top: 4370px;
+}
+
+.p3 {
+    width: 150px;
+    height: 48px;
+    opacity: 0.6;
+    font-family: Syne;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 24px;
+    letter-spacing: 0%;
+    text-align: left;
+    color: #222222;
+    margin-left: 390px;
+}
+
+.return {
+    width: 378;
+    height: 150;
+    gap: 32px;
+    text-align: right;    
+
+}
+
+.emoji4 {
+    width: 60px;
+height: 60px;
+gap: 10px;
+border-radius: 30px;
+border-width: 1px;
+margin-right: 350px;
+background-color: #ffffff;
+padding: 40px;
+}
+.emoji4:hover {
+    cursor: pointer;
+    background-color: #FD3B3B;
+    color: #ffffff;
+}
+.h44{
+    width: 90;
+    height: 29;
+    font-family: Syne;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 28.8px;
+    letter-spacing: 0%;
+    color: #222222;
+    margin-right: 230px;
+    position: absolute;
+    right: 30px;
+}
+
+.p4 {
+    width: 150px;
+height: 72px;
+opacity: 0.6;
+text-align: left;
+position: absolute;
+right: 200px;
+margin-top: 55px;
 
 }
 

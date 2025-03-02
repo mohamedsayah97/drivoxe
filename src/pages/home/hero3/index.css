@@ -1,0 +1,23 @@
+.cl1 {
+    background-image: url('../../../assets/car3.png');
+    background-position: left;
+    background-size: cover;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    
+   
+}
+
+.cl1 {
+    text-align: left;
+    position: absolute;
+    right: 250px;
+    bottom: -4300px;
+    /*color: #fff;*/
+    line-height: 45px;
+}
+
+.msg2 {
+    width: 250px;
+    
+}
