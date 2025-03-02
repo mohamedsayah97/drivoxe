@@ -98,6 +98,9 @@
       text-align: center;
 
     }
+    
+
+    }
     .pics {
       display: flex;
       img {
@@ -105,12 +108,12 @@
         height: 1.5rem;
         border-radius: 50%;
       }
-
-    }
     .card-down button{
       width: 50px;
       height: 20px;
       border: none;
     }
+  
   }
+ 
 }

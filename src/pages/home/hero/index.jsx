@@ -25,8 +25,13 @@ const Hero = () => {
             <img src="https://picsum.photos/200/300" alt="card_placeholder" />
           </div>
         </div>
-        <div className="hero-middle"><b>50+</b><br/> <span>Car Types<br/>
-        Available</span></div>
+        <div className="hero-middle">
+          <div>
+          <b>50+</b><br/> <span>Car Types<br/>
+          Available</span>
+          </div>
+          </div>
+          
         <div className="hero-right">
           <div className="pics">
             <img src={""} alt="pic1"></img>

@@ -1,0 +1,70 @@
+.footer {
+    background-color: white;
+    margin: 5%;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.left-part {
+    
+    width: 50%;
+}
+
+.left-part h4 {
+    width: 60%;
+    margin-bottom: 4%;
+    font-size: 45px;
+}
+
+.left-part p {
+    width: 53%;
+    color: rgb(136, 132, 132);
+    margin-bottom: 10%;
+    margin-top: -25px;
+}
+
+.left-part input {
+    width: 35%;
+    height: 20px;
+    border: 1px solid black;
+    border-radius: 30px;
+    padding: 15px;
+   
+}
+
+.right-part {
+    width: 50%;
+    display: flex;
+    margin-top: 150px;
+}
+
+.first-bloc h4{
+    padding: 5px 5px 20px 0;
+    font-size: 20px;
+    margin-left: 10px;
+}
+
+ li  {
+    list-style-type: none;
+    margin: 15px;
+    font-size: 20px;
+}
+
+.sec-bloc h4 {
+    padding: 5px 5px 20px 0;
+    font-size: 20px;
+    margin-left: 15px;
+}
+
+.third-bloc h4 {
+    padding: 5px 5px 20px 0;
+    font-size: 20px;
+    margin-left: 15px;
+}
+
+.last-line p {
+    position: absolute;
+    bottom: -3750px;
+    right: 350px;
+}
