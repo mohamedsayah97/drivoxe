@@ -75,6 +75,12 @@
     backdrop-filter: blur(5px);
     -webkit-backdrop-filter: blur(5px);
     border: 1px solid rgba(255, 255, 255, 0.3);
+    position: absolute;
+    right: 420px;
+    top: 140px;
+    text-align: center;
+    padding-top: 20px;
+
     b {
       width: 82px;
       height: 58px;
@@ -84,6 +90,7 @@
       font-size: 48px;
       line-height: 57.6px;
       letter-spacing: 0%;
+      
 
     }
     span {
@@ -98,20 +105,53 @@
       text-align: center;
 
     }
+   
     
 
     }
+    .hero-par {
+    position: absolute;
+    right: 20px;
+    top: 120px;
+    }
     .pics {
       display: flex;
+      
       img {
-        width: 1.5rem;
-        height: 1.5rem;
+        width: 60px;
+        height: 60px;
         border-radius: 50%;
+        
       }
-    .card-down button{
-      width: 50px;
-      height: 20px;
+      .pics1{
+        position: absolute;
+        right: 150px;
+      }
+      .pics2{
+        position: absolute;
+        right: 100px;
+      }
+      .pics3{
+        position: absolute;
+        right: 50px;
+      }
+    .card-down .btn1{
+      width: 80px;
+      height: 30px;
+      border: 1px #fd3b3b solid ;
+      border-radius: 25px;
+      background-color: #fff;
+      color: #fd3b3b;
+      cursor: pointer;
+      margin-top: 350px;
+    }
+   
+
+    .learn {
+      color: #222222;
       border: none;
+      background-color: #fff;
+      cursor: pointer;
     }
   
   }

@@ -34,18 +34,18 @@ const Hero = () => {
           
         <div className="hero-right">
           <div className="pics">
-            <img src={""} alt="pic1"></img>
-            <img src={""} alt="pic2"></img>
-            <img src={""} alt="pic3"></img>
+            <img className="pics1" src={"https://res.cloudinary.com/dcxzlpare/image/upload/v1740949215/38ad25254e06aaff5d858bcca7777c1c_rtw8hb.jpg"} alt="pic1"></img>
+            <img className="pics2" src={"https://res.cloudinary.com/dcxzlpare/image/upload/v1740949253/japanese_sfsttu.jpg"} alt="pic2"></img>
+            <img className="pics3" src={"https://res.cloudinary.com/dcxzlpare/image/upload/v1740949267/smile_ugccdw.jpg"} alt="pic3"></img>
             <div className="hero-par">
               <h5>12.5K+ People</h5>
-              <p>has used our services such as renting, buying, or even selling their car.</p>
+              <p>has used our services such <br/>as renting, buying, or even<br/> selling their car.</p>
             </div>
             <div className="card-down">
-              <button>rent</button>
-              <button>buy</button>
-              <button>sell</button>
-              <button>consult</button>
+              <button className="btn1">rent</button>
+              <button className="btn1">buy</button>
+              <button className="btn1">sell</button>
+              <button className="btn1">consult</button>
               <button className="learn">Learn more</button>
             </div>
           </div>

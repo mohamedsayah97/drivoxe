@@ -4,7 +4,7 @@ import './Footer.css'
 const Footer = () => {
   return (
     <div className='footer'>
-        <div className='left-part'>
+        <div className='left-part1'>
             <h4>Don&#39;t miss a thing</h4>
             <p>Subscribe to our newsletter for exclusive deals and updates.</p>
             <input type='email' placeholder='Entrer email adresse for newslettre...'></input>
