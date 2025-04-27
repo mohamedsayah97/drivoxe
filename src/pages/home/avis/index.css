@@ -1,0 +1,51 @@
+.container {
+    background-image: url('https://res.cloudinary.com/dcxzlpare/image/upload/v1740919020/back1_y3yfqv.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+    width: 1440px;
+    height: 392px;
+    justify-content: space-between;
+    padding-top: 110px;
+    padding-right: 50px;
+    padding-bottom: 100px;
+    padding-left: 50px;
+
+}
+
+ .first-par {
+    text-align: center;
+    margin-top: -50px;
+    width: 398;
+    height: 29;
+    font-family: Syne;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 28.8px;
+    letter-spacing: 0%;
+    text-align: center;
+    color: #FD3B3B;
+}
+
+.sec-par {
+    width: 985px;
+    height: 232px;
+    font-family: Syne;
+    font-weight: 500;
+    font-size: 48px;
+    line-height: 57.6px;
+    letter-spacing: 0%;
+    text-align: center;
+    margin-left: 170px;
+    
+}
+.down-part {
+    text-align: center;
+    margin-top: 20px;
+}
+.down-part img {
+    width: 72px;
+    height: 72px;
+    border-radius: 50px;
+}

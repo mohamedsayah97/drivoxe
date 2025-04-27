@@ -1,0 +1,245 @@
+.container {
+    width: 1440;
+    height: 957;
+    padding-right: 50px;
+    padding-left: 50px;
+    gap: 100px;
+
+}
+
+.top-part {
+  text-align: center;
+}
+
+.first-part {
+    width: 169;
+    height: 24;
+    font-family: Syne;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+    letter-spacing: 0%;
+    text-align: center;
+    color: #222222;
+}
+.last-par {
+    width: 842;
+height: 67;
+font-family: Syne;
+font-weight: 700;
+font-size: 56px;
+line-height: 67.2px;
+letter-spacing: 0%;
+text-align: center;
+color: #222222;
+
+}
+.down-part1 {
+    background-image: url('https://res.cloudinary.com/dcxzlpare/image/upload/v1740919791/logo_sogdru.png');
+    background-size: cover;
+    background-position: center;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 700px;
+    
+}
+
+.select {
+    width: 378;
+    height: 150;
+    gap: 32px;
+    text-align: center;
+    margin-top: 100px;
+  
+}
+
+.select h4 {
+    width: 83;
+    height: 29;
+    font-family: Syne;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 28.8px;
+    letter-spacing: 0%;
+    color: #222222;
+    position: absolute;
+    left: 510px;
+    padding-top: 15px;
+
+}
+.select p {
+    width: 150px;
+    position: absolute;
+    left: 470px;
+    padding-top: 65px;
+    color: #222222;
+
+}
+
+.emoji1 {
+    width: 60px;
+    height: 60px;
+    position: absolute;
+    left: 640px;
+    background-color: #ffffff;
+    padding: 25px;
+    border-radius: 30px;
+
+}
+
+.emoji1:hover {
+    cursor: pointer;
+    background-color: #FD3B3B;
+    color: #ffffff;
+}
+
+.book {
+    width: 378;
+    height: 150;
+    gap: 32px;
+    text-align: right;
+    margin-top: 100px;
+  
+}
+
+.h42 {
+    width: 83;
+    height: 29;
+    font-family: Syne;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 28.8px;
+    letter-spacing: 0%;
+    color: #222222;
+    position: absolute;
+    
+    right: 280px;
+    padding-top: 130px;
+    
+}
+
+.emoji2 {
+    width: 60px;
+    height: 60px;
+    background-color: #ffffff;
+    padding: 25px;
+    border-radius: 30px;
+    margin-right: 350px;    
+    margin-top: 130px;
+    border: 2px solid black;
+}
+.emoji2:hover {
+    cursor: pointer;
+    background-color: #FD3B3B;
+    color: #ffffff;
+}
+.p2 {
+    width: 150px;
+    position: absolute;
+    right: 200px;
+    margin-top: 180px;
+    text-align: left;
+    color: #222222;
+
+}
+
+.drive {
+    width: 378;
+    height: 150;
+    gap: 32px;
+    text-align: center;
+    margin-top: 100px;
+}
+
+ .emoji3 {
+    width: 60px;
+    height: 60px;
+    background-color: #ffffff;
+    padding: 25px;
+    border-radius: 30px;
+    margin-right: 150px;    
+    margin-top: -100px;
+}
+.emoji3:hover {
+    cursor: pointer;
+    background-color: #FD3B3B;
+    color: #ffffff;
+}
+
+.h43 {
+    width: 83;
+    height: 29;
+    font-family: Syne;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 28.8px;
+    letter-spacing: 0%;
+    color: #222222;
+    /*margin-left: -450px;*/
+    position: absolute;
+    left: 510px;
+    top: 3495px;
+}
+
+.p3 {
+    width: 150px;
+    height: 48px;
+    opacity: 0.6;
+    font-family: Syne;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 24px;
+    letter-spacing: 0%;
+    text-align: left;
+    color: #222222;
+    margin-left: 390px;
+}
+
+.return {
+    width: 378;
+    height: 150;
+    gap: 32px;
+    text-align: right;    
+
+}
+
+.emoji4 {
+    width: 60px;
+height: 60px;
+gap: 10px;
+border-radius: 30px;
+border-width: 1px;
+margin-right: 350px;
+background-color: #ffffff;
+padding: 40px;
+}
+.emoji4:hover {
+    cursor: pointer;
+    background-color: #FD3B3B;
+    color: #ffffff;
+}
+.h44{
+    width: 90;
+    height: 29;
+    font-family: Syne;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 28.8px;
+    letter-spacing: 0%;
+    color: #222222;
+    margin-right: 230px;
+    position: absolute;
+    right: 30px;
+}
+
+.p4 {
+    width: 150px;
+height: 72px;
+opacity: 0.6;
+text-align: left;
+position: absolute;
+right: 200px;
+margin-top: 55px;
+
+}
+

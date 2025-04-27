@@ -1,57 +1,28 @@
-//import Achiev from './achievPage/Achiev'
-import './App.css'
-//import Benz from './benz/Benz'
-//import Detail from './detail/Detail'
-//import Perf from './perfection/perf'
-//import HomeCar from './home-car/HomeCar'
-//import Res from './resdream/Res'
-//import Fourthofsec from './fourthofsec/Fourthofsec'
-//import Thirdofsec from './thirdofsec/Thirdofsec'
-//import Secofsec from './Secofsec'
-//import Home from './Home'
-//import Footer from './footer/Footer'
-//import { Fivethpage } from './fivethPage/Fivethpage'
-//import Sixpage from './sixPage/Sixpage'
-//import Fourthpage from './fourthPage/Fourthpage'
-import Navbar from './navbar/Navbar'
-//import Secpart from './secPage/Secpart'
-//import Thirdpart from './thirdpage/Thirdpart'
+import "./App.css";
+import Avis from "./pages/home/avis";
+import Cars from "./pages/home/cars";
+import Lcars from "./pages/home/cars2";
+import Footer from "./pages/home/footer/Footer";
+import Hero from "./pages/home/hero";
+import Herotwo from "./pages/home/hero2";
+import Hero3 from "./pages/home/hero3";
+import NavBar from "./pages/home/navbar";
+import Work from "./pages/home/work";
 
 function App() {
-  
-
   return (
     <>
-    {/*  <Navbar />
-     <Secpart />
-     <Thirdpart/>
-     <Fourthpage/>
-     <Fivethpage/>
-     <Sixpage/>
-     <Footer/>
-     <Home/>
-     <Secofsec />
-     <Thirdofsec/>
-     <Fourthofsec/>
-     <Achiev/>
-     <Res/>
-     <HomeCar/>
-     <Perf/>
-     <Detail/>
-     <Benz/>
-
-
-
-
-     
-    */}
-    
-  <Navbar />
-    
-     
-     
+      <NavBar />
+      <Hero />
+      <Cars/>
+      <Lcars/>
+      <Herotwo/>
+      <Avis/>
+      <Work/>
+      <Hero3/>
+      <Footer/>
     </>
-  )
+  );
 }
 
-export default App
+export default App;

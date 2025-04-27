@@ -1,0 +1,52 @@
+#navbar {
+  color: #000;
+  background-color: #ffffff;
+  display: flex;
+  justify-content: space-between;
+  margin: 10px;
+  align-items: center;
+  padding: 10px;
+
+  .attributs a {
+    color: black;
+    padding: 5px 20px;
+    border-radius: 15px;
+
+    &:hover {
+      cursor: pointer;
+      background-color: #fd3b3b;
+      color: #ffffff;
+    }
+  }
+
+  .btns {
+    display: flex;
+    gap: 1rem;
+    align-items: center;
+    // border: 1px solid red;
+    .divider {
+      background-color: #222222;
+      height: 1rem;
+      width: 0.1rem;
+    }
+    button {
+      padding: 0.5rem 1rem;
+      &:last-child {
+        border-radius: 1.1rem;
+        background-color: #fd3b3b;
+        color: #fff;
+        border: none;
+        cursor: pointer;
+      }
+      &:nth-child(1) {
+        border: none;
+        background-color: transparent;
+        color: #fd3b3b;
+        cursor: pointer;
+      }
+    }
+    &:hover {
+      cursor: pointers;
+    }
+  }
+}
